@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MitaliSayankar&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=13mitali&show_icons=true&theme=react" />
 </p>
 
 ---
