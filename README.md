@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/mitali13.png" width="150" alt="Mitali Sayankar" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Mitali Sayankar</h1>
 <h3 align="center">Aspiring Software Developer | Front-End Specialist | Data Engineering Enthusiast</h3>
 
