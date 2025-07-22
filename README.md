@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/mitali13.png" width="150" alt="Mitali Sayankar" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Mitali Sayankar</h1>
